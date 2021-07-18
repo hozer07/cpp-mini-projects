@@ -1,0 +1,7 @@
+Dominant eigenvalue: 20.0449
+Corresponding eigenvector:
+0.597409
+0.846362
+1
+0.664057
+Second eigenvalue: -6.67738
